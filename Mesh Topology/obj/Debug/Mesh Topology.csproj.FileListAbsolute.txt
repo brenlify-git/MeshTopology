@@ -1,0 +1,13 @@
+C:\Users\roble\source\repos\Mesh Topology\Mesh Topology\bin\Debug\Mesh Topology.exe.config
+C:\Users\roble\source\repos\Mesh Topology\Mesh Topology\bin\Debug\Mesh Topology.exe
+C:\Users\roble\source\repos\Mesh Topology\Mesh Topology\bin\Debug\Mesh Topology.pdb
+C:\Users\roble\source\repos\Mesh Topology\Mesh Topology\bin\Debug\Guna.UI2.dll
+C:\Users\roble\source\repos\Mesh Topology\Mesh Topology\obj\Debug\Mesh Topology.csproj.AssemblyReference.cache
+C:\Users\roble\source\repos\Mesh Topology\Mesh Topology\obj\Debug\Mesh Topology.csproj.SuggestedBindingRedirects.cache
+C:\Users\roble\source\repos\Mesh Topology\Mesh Topology\obj\Debug\Mesh_Topology.Form1.resources
+C:\Users\roble\source\repos\Mesh Topology\Mesh Topology\obj\Debug\Mesh_Topology.Properties.Resources.resources
+C:\Users\roble\source\repos\Mesh Topology\Mesh Topology\obj\Debug\Mesh Topology.csproj.GenerateResource.cache
+C:\Users\roble\source\repos\Mesh Topology\Mesh Topology\obj\Debug\Mesh Topology.csproj.CoreCompileInputs.cache
+C:\Users\roble\source\repos\Mesh Topology\Mesh Topology\obj\Debug\Mesh Topology.csproj.CopyComplete
+C:\Users\roble\source\repos\Mesh Topology\Mesh Topology\obj\Debug\Mesh Topology.exe
+C:\Users\roble\source\repos\Mesh Topology\Mesh Topology\obj\Debug\Mesh Topology.pdb
